@@ -1,0 +1,36 @@
+#pragma once
+
+#include <vector>
+#include <array>
+#include <tuple>
+#include <set>
+#include <map>
+#include <iostream>
+#include <algorithm>
+#include <iterator>
+#include <string>
+#include <random>
+#include <stack>
+#include <type_traits>
+#include <queue>
+#include <functional>
+#include <unordered_map>
+#include <ctype.h>
+#include <boost/range/adaptors.hpp>
+#include <boost/range/algorithm.hpp>
+#include <boost/range/algorithm_ext.hpp>
+#include <boost/range/numeric.hpp>
+#include <boost/range/adaptors.hpp>
+#include <boost/range/algorithm.hpp>
+#include <boost/range/algorithm_ext.hpp>
+#include <boost/fusion/sequence/io.hpp>
+#include <boost/fusion/include/io.hpp>
+#include <boost/fusion/container/vector.hpp>
+#include <boost/fusion/include/vector.hpp>
+#include <boost/fusion/sequence/intrinsic/at_c.hpp>
+#include <boost/fusion/include/at_c.hpp>
+#include <boost/fusion/adapted/std_tuple.hpp>
+#include <boost/lexical_cast.hpp>
+
+#include "prettyprint.hpp"
+//#include <ro/ro.h>
